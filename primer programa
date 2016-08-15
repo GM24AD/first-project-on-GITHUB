@@ -1,0 +1,4 @@
+main{}
+{
+printf("Hola cómo estas"/n);
+}
